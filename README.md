@@ -21,7 +21,6 @@ The **Tip Calculator** is a web-based application that allows users to quickly c
 - **CSS**: Styles the interface, ensuring a clean and responsive design.
 - **JavaScript**: Handles the calculation logic and updates the total amount in real-time.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
