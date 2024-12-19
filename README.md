@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Tip-Calculator.git
+    git clone https://github.com/abhishekboadgurjar/Tip-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Tip Calculator [here](https://abhishekgurjar-in.github.io/Tip-Calculator/).
+You can check out the live demo of the Tip Calculator [here](https://abhishekboadgurjar.github.io/Tip-Calculator/).
 
 ## Screenshots
 ![Screenshot 2024-08-18 105341](https://github.com/user-attachments/assets/ee54cdc2-6ea0-4053-be40-e7009d3f104a)
@@ -66,4 +66,4 @@ This project was developed as part of my ongoing journey to enhance my web devel
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
